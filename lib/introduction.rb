@@ -1,4 +1,4 @@
 def introduction
-    name=Jarred
+    name(Jarred)
     puts "Hi, my name is #{name}"
 end
